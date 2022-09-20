@@ -3,7 +3,7 @@
     "@supabase/supabase-js": "^1.35.6",
     "appwrite": "^10.0.1",
     "dotenv": "^16.0.2",
-    "node-appwrite": "github:aw-tests/sdk-for-node",
+    "node-appwrite": "^8.0.0",
     "pg": "^8.8.0"
   }
 }
